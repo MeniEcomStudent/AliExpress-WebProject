@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-api-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-api-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-chrome-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-chrome-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-chromium-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-chromium-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-devtools-v85-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-devtools-v85-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-devtools-v104-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-devtools-v104-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-devtools-v105-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-devtools-v105-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-devtools-v106-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-devtools-v106-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-edge-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-edge-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-firefox-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-firefox-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-http-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-http-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-ie-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-ie-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-java-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-java-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-json-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-json-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-remote-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-remote-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-safari-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-safari-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-support-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/לימודים/selenium-java-4.5.3/selenium-support-4.5.3-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
